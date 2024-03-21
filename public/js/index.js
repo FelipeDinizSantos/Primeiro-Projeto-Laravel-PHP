@@ -7,3 +7,7 @@ document.querySelector('#calculator').addEventListener('click', ()=>{
 document.querySelector('#genaretePessoalData').addEventListener('click', ()=>{
     redirectTo('gerarDadosPessoais');
 })
+
+document.querySelector('#getProducts').addEventListener('click', ()=>{
+    redirectTo('produtos');
+})

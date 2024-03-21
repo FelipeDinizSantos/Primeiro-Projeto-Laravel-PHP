@@ -32,5 +32,6 @@
 
     <button id='calculator'> Calculadora </button>
     <button id='genaretePessoalData'> Gerar Dados Pessoais </button>
+    <button id='getProducts'> Produtos </button>
 </body>
 </html>

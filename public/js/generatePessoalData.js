@@ -12,5 +12,5 @@ form.addEventListener('submit', (event)=>{
     const GENDER = inputs[3].value;
     const ADDRESS = inputs[4].value;
 
-    redirectTo(`ApresentarDadosPessoais/${NAME}/${LASTNAME}/${RM}/${GENDER}/${ADDRESS}`)
+    redirectTo(`apresentarDadosPessoais/${NAME}/${LASTNAME}/${RM}/${GENDER}/${ADDRESS}`)
 })
